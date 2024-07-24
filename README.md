@@ -1,5 +1,5 @@
 # ChatRoom
-I have created a web app which is chat room supports multiple devices
+I have created a web app which is chat room application
 ## Images of the Chat Room app with multiple clients
 
 ![Screenshot (315)](https://github.com/user-attachments/assets/d16541a1-de83-4ee0-ace7-8fdbb01e47c1)
